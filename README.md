@@ -4,11 +4,39 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend and Mobile Developer
 ----------------------------
 
-Add a long description here
+A Little About Me
+----------------------------
 
-* 🌍  I'm based in Cape Town
-* 🚀  I'm currently working on A To-Do/Task Manager Mobile App 
-* 🧠  I'm learning Flutter
+```yaml
+name: Justin de Groot
+located_in: Cape Town, South Africa
+current_job: IT Developer
+company: Truworths International
+education:
+  [
+    "Bacholers of Computer And Application Sciences in Application Development",
+    "Complete Flutter Bootcamp",
+    "Oracle OCI Certificate"
+  ]
+
+flieds_of_intrest :
+  [
+    "Mobile Development",
+    "Backend Development",
+    "UI/UX",
+    "Database Development"
+  ]
+technical_background:
+  [
+    "IT Developer",
+    "Junior IT Developer",
+    "Intern - Frontend development and design"
+  ]
+
+currently_learning: ["Flutter"]
+2024_goals: ["Create 3+ Mobile App in Flutter"]
+hobbies: ["Gaming", "Movie fantatic", "Padel", "Mobile Apps"]
+```
 
 ### Skills
 
