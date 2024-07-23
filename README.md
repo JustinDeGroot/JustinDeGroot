@@ -33,7 +33,7 @@ technical_background:
     "Intern - Frontend development and design"
   ]
 
-currently_learning: ["Flutter"]
+currently_busy_with: ["Enhancing my Flutter Skillset"]
 2024_goals: ["Create 3+ Mobile App in Flutter"]
 hobbies: ["Gaming", "Movie fanatic", "Padel", "Mobile Apps"]
 ```
