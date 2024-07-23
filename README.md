@@ -14,7 +14,7 @@ current_job: IT Developer
 company: Truworths International
 education:
   [
-    "Bacholers of Computer And Application Sciences in Application Development",
+    "Bachelors of Computer And Application Sciences in Application Development",
     "Complete Flutter Bootcamp",
     "Oracle OCI Certificate"
   ]
@@ -35,7 +35,7 @@ technical_background:
 
 currently_learning: ["Flutter"]
 2024_goals: ["Create 3+ Mobile App in Flutter"]
-hobbies: ["Gaming", "Movie fantatic", "Padel", "Mobile Apps"]
+hobbies: ["Gaming", "Movie fanatic", "Padel", "Mobile Apps"]
 ```
 
 ### Skills
